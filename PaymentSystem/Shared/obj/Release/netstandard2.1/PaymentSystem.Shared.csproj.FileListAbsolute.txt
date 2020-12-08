@@ -1,0 +1,9 @@
+C:\Users\Mortis\source\repos\PaymentSystem\PaymentSystem\Shared\bin\Release\netstandard2.1\PaymentSystem.Shared.deps.json
+C:\Users\Mortis\source\repos\PaymentSystem\PaymentSystem\Shared\bin\Release\netstandard2.1\PaymentSystem.Shared.dll
+C:\Users\Mortis\source\repos\PaymentSystem\PaymentSystem\Shared\bin\Release\netstandard2.1\PaymentSystem.Shared.pdb
+C:\Users\Mortis\source\repos\PaymentSystem\PaymentSystem\Shared\obj\Release\netstandard2.1\PaymentSystem.Shared.csprojAssemblyReference.cache
+C:\Users\Mortis\source\repos\PaymentSystem\PaymentSystem\Shared\obj\Release\netstandard2.1\PaymentSystem.Shared.AssemblyInfoInputs.cache
+C:\Users\Mortis\source\repos\PaymentSystem\PaymentSystem\Shared\obj\Release\netstandard2.1\PaymentSystem.Shared.AssemblyInfo.cs
+C:\Users\Mortis\source\repos\PaymentSystem\PaymentSystem\Shared\obj\Release\netstandard2.1\PaymentSystem.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Mortis\source\repos\PaymentSystem\PaymentSystem\Shared\obj\Release\netstandard2.1\PaymentSystem.Shared.dll
+C:\Users\Mortis\source\repos\PaymentSystem\PaymentSystem\Shared\obj\Release\netstandard2.1\PaymentSystem.Shared.pdb
